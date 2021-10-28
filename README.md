@@ -1,2 +1,2 @@
-# c-school-studies
-school studies
+# c-programming
+
